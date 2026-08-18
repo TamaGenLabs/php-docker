@@ -5,3 +5,4 @@
 
     $greet = new Greeting();
     echo "<h1>" . $greet->sayHello() . "</h1>";
+    echo "Gitのブランチテスト中";
